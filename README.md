@@ -1,2 +1,2 @@
-# htts://BrightSpace.com.br
+# http://BrightSpace.com.br
 My personal website
